@@ -2,6 +2,8 @@
 
 Projeto simples para sorteio de amigos secretos. Os usuários podem adicionar nomes, visualizar a lista e realizar o sorteio de forma aleatória.
 
+<img src="https://github.com/MagalyCl/AmigoSecreto/blob/main/challenge-amigo-secreto_pt-main/assets/img.ams.png" alt="Interface web" width="500">
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML
