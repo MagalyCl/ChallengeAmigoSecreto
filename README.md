@@ -16,6 +16,7 @@ Projeto simples para sorteio de amigos secretos. Os usuários podem adicionar no
 ✅ Limpar a lista de amigos e os sorteios anteriores.  
 
 ## 
+<img src="https://github.com/MagalyCl/AmigoSecreto/blob/main/challenge-amigo-secreto_pt-main/assets/sorteio-de-nomes.gif" alt="Adicionando nomes" width="500">
 
 ## 🔧 Como Executar o Projeto
 
