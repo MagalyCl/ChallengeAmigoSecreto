@@ -22,6 +22,7 @@ Projeto simples para sorteio de amigos secretos. Os usuários podem adicionar no
 
 ## 🔧 Como Executar o Projeto
 
-O link a seguir irá direcionar você para a pagina do projeto:
+O link a seguir irá direcionar você para a pagina do projeto: challenge-amigo-secreto-cl.vercel.app
+
 
 
